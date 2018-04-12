@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+b46d231ec8cb6556145a6dfed6d74268 CMakeFiles/mkdoc
+32049c3168e43abd3ec43a503a4a7867 nanogui_resources.cpp

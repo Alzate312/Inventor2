@@ -235,6 +235,8 @@ CMakeFiles/example4.dir/src/example4.cpp.o: ../include/nanogui/widget.h
 CMakeFiles/example4.dir/src/example4.cpp.o: ../include/nanogui/window.h
 CMakeFiles/example4.dir/src/example4.cpp.o: ../src/columna.h
 CMakeFiles/example4.dir/src/example4.cpp.o: ../src/example4.cpp
+CMakeFiles/example4.dir/src/example4.cpp.o: ../src/floor.h
+CMakeFiles/example4.dir/src/example4.cpp.o: ../src/roof.h
 CMakeFiles/example4.dir/src/example4.cpp.o: ../src/shaderClass.h
 CMakeFiles/example4.dir/src/example4.cpp.o: ../src/wall.h
 

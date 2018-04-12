@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "__locale": "cpp",
+        "ios": "cpp",
+        "__bit_reference": "cpp",
+        "__split_buffer": "cpp",
+        "__tree": "cpp",
+        "deque": "cpp",
+        "iterator": "cpp",
+        "map": "cpp",
+        "memory": "cpp",
+        "regex": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "thread": "cpp",
+        "vector": "cpp",
+        "ratio": "cpp",
+        "system_error": "cpp",
+        "cstdio": "cpp",
+        "initializer_list": "cpp"
+    }
+}
